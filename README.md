@@ -1,6 +1,6 @@
 # http-wrapper
 
-A very basic HTTP wrapper library over urllib for Python2.
+A very basic HTTP wrapper library around urllib for Python2.
 
 It only has a very limited set of feature compared to httplib but allows to deal easily with pages with 'exotic' encodings.
 
