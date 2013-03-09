@@ -10,7 +10,7 @@ setup(
     url='https://github.com/tuvistavie/python2-http-wrapper',
     download_url='https://github.com/tuvistavie/python2-http-wrapper/archive/master.zip',
     license='MIT',
-    packages=find_packages("src/"),
+    packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
     classifiers=[
